@@ -50,7 +50,7 @@ Driving innovation in intelligent automation and generative AI tools for develop
 
 | Certification | Issuer |
 |----------------|--------|
-| 🧩 AWS Certified Solutions Architect – Associate | AWS |
+| 🧩 AWS Certified Solutions Architect – Proffesional | AWS |
 | ☁️ Microsoft Certified: Azure Developer Associate | Microsoft |
 | 🔒 Certified Kubernetes Administrator (CKA) | CNCF |
 | ☕ Oracle Certified Professional – Java SE 11 | Oracle |
