@@ -11,7 +11,7 @@ I’m passionate about turning complex architectures into self-healing, AI-drive
 
 ## 🧠 My Work
 
-💡 **Founder, NEXTECH AI SYSTEMS INC**  
+💡 **Founder**  
 Driving innovation in intelligent automation and generative AI tools for developers, recruiters, and businesses.  
 
 🚀 **AI Resume Generation Platform** — Automates ATS-optimized resume creation using natural-language prompts and job alignment.  
