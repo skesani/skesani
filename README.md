@@ -1,6 +1,6 @@
 # Hi there, I'm Sasi Kesani 👋  
 
-💻 **Senior Full Stack Engineer | Solutions Architect | Founder @ NEXTECH AI SYSTEMS INC**
+💻 **Senior Full Stack Engineer | Solutions Architect | Founder @ **
 
 I’m a Senior Engineer and Architect with **15+ years** of experience building scalable, secure, and AI-powered platforms.  
 My focus is on crafting **agentic AI systems**, **Backstage developer platforms**, and **multi-cloud automation pipelines** that blend intelligence, usability, and performance.  
