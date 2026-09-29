@@ -33,9 +33,11 @@ Colleagues I have worked with on federal / GSA-IT programs have described me as 
 
 ---
 
-## 🧠 Projects & technical interests
+## 📚 Technical Publications
 
-### [Synthetic Digital Immunity (SDI)](https://github.com/skesani/sdi)
+### [Synthetic Digital Immunity (SDI)](https://sdi-docs.vercel.app/)
+
+A technical publication on AI-driven, bio-inspired cybersecurity for microservices, covering the system architecture, methodology, and integration patterns.
 
 **Cybersecurity inspired by the human immune system.** SDI explores how microservices can detect unusual behavior, isolate suspicious traffic, and adapt their defenses as threats evolve.
 
@@ -46,7 +48,11 @@ Its documented architecture connects five stages: **detection → isolation → 
 - **Adaptive defense:** genetic algorithms and polymorphic code mutations are designed to turn observed threats into reusable defenses.
 - **Service integration:** Java / Spring Boot, Python, and Node.js SDKs, with REST APIs, Kafka event streaming, and Kubernetes sidecar deployment patterns.
 
-[Documentation](https://sdi-docs.vercel.app/) · [Source code](https://github.com/skesani/sdi) · [Architecture](https://github.com/skesani/sdi/blob/main/docs/pages/architecture.mdx) · [Node.js SDK on npm](https://www.npmjs.com/package/sdi-nodejs)
+[Read the publication](https://sdi-docs.vercel.app/) · [Source code](https://github.com/skesani/sdi) · [Architecture](https://github.com/skesani/sdi/blob/main/docs/pages/architecture.mdx) · [Node.js SDK on npm](https://www.npmjs.com/package/sdi-nodejs)
+
+---
+
+## 🧠 Projects & technical interests
 
 ### [Agent-Core](https://github.com/skesani/agent-core)
 An engineered peer-review agent: LangGraph + MCP, Pydantic structured output, human-in-the-loop on every tool. Built to show how agentic AI belongs in a real software workflow, not as a one-shot prompt.
